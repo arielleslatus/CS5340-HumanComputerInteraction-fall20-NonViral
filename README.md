@@ -4,7 +4,7 @@ Term Project
 
 Arielle Slatus, Sina Salehi, Leora Fink, Cullen Lampasso
 
-Designed the UI of a mobile application for COVID-19 contact tracing at Northeastern University.
+Designed the UI of a COVID-19 contact tracing mobile application for Northeastern University students.
 
 https://www.youtube.com/watch?v=f2PG6HPEnJs
 
